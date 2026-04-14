@@ -109,7 +109,7 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshaNaidu11-0a0a0a?style=for-the-badge\&logo=github\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://github.com/HarshaNaidu11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://www.linkedin.com/in/n-harsha-vardhan-raj-7266432a4/)
-[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:harshavardhannaidu1111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-HarshaNaidu%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:harshavardhannaidu1111@gmail.com)
 
 </div>
 
