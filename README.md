@@ -89,13 +89,17 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=tokyonight" height="160">
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight" height="160">
-</p>
+<div align="center">
 
+<img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=true&background=0a0a0a&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a" height="170"/>
+
+</div>
 
 ---
 
