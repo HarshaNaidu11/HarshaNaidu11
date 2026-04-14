@@ -91,14 +91,15 @@ I enjoy working at the intersection of **machine learning, system design, and re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=true&background=0a0a0a&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=true&background=0a0a0a&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9&v=1" width="700"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a&v=1" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a&v=1" height="180"/>
 </div>
+
 
 ---
 
@@ -107,8 +108,8 @@ I enjoy working at the intersection of **machine learning, system design, and re
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshaNaidu11-0a0a0a?style=for-the-badge\&logo=github\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://github.com/HarshaNaidu11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://www.linkedin.com/in/n-harsha-vardhan-raj-7266432a4/)
+[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:harshavardhannaidu1111@gmail.com)
 
 </div>
 
