@@ -91,13 +91,15 @@ I enjoy working at the intersection of **machine learning, system design, and re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=false&border=f5f0e8&background=0a0a0a&stroke=f5f0e8&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9&sideLabels=d4c5a9&dates=8a7a6a&currStreakNum=f5f0e8&sideNums=f5f0e8&border_radius=8" width="700"/>
+  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=true&background=0a0a0a&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9" width="700"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a&border_radius=8&show=reviews,prs_merged,discussions_started" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a&border_radius=8&langs_count=6" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a" height="180"/>
 </div>
+
 
 ---
 
