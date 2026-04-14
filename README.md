@@ -39,38 +39,52 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" height="40"/>  
-<b>C/C++ • Python • Java • JavaScript • SQL</b>
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge\&logo=python\&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge\&logo=openjdk\&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge\&logo=postgresql\&logoColor=blue)
 
-<br><br>
+---
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" height="40"/>  
-<b>React • Node.js • Express • Flask • FastAPI</b>
+### ⚙️ Frameworks & Libraries
 
-<br><br>
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge\&logo=node.js\&logoColor=green)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge\&logo=fastapi\&logoColor=00C7B7)
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite" height="40"/>  
-<b>MongoDB • MySQL • PostgreSQL • Firebase • SQLite • OracleDB</b>
+---
 
-<br><br>
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker" height="40"/>  
-<b>AWS (EC2, S3) • Git • GitHub • Linux • Docker</b>
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge\&logo=mongodb\&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge\&logo=mysql\&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge\&logo=postgresql\&logoColor=blue)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge\&logo=sqlite\&logoColor=lightblue)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge\&logo=firebase\&logoColor=orange)
+![OracleDB](https://img.shields.io/badge/OracleDB-0a0a0a?style=for-the-badge\&logo=oracle\&logoColor=red)
 
-</div>
+---
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge\&logo=amazon-aws\&logoColor=orange)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge\&logo=git\&logoColor=red)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge\&logo=linux\&logoColor=yellow)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge\&logo=docker\&logoColor=blue)
 
 ---
 
 ## 🧩 Core CS & Concepts
 
-<div align="center">
-
 `Data Structures & Algorithms` • `Operating Systems` • `Computer Networks` • `DBMS`
 `REST APIs` • `System Design` • `OSINT` • `Web Scraping` • `Authentication` • `Distributed Systems`
-
-</div>
 
 ---
 
