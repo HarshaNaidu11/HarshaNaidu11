@@ -28,12 +28,11 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 ## 🚀 Projects
 
-| Project               | Description                                                                                                                 | Tags                          | Status         |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | -------------- |
-| **🛰️ E-Xpose**       | OSINT pipeline revealing digital footprint via email — cross-platform identity linking, risk scoring & exposure analytics   | `OSINT` `Privacy` `Analytics` | ✅ Live         |
-| **🧠 Bloomence**      | Personalized mental health insights using behavioral ML, real-time full-stack architecture & insight-driven recommendations | `ML` `Real-time` `Flask`      | ✅ Live         |
-| **📄 ResumeAI**       | NLP-powered resume scorer matching profiles against JDs, highlights skill gaps and suggests targeted improvements           | `NLP` `ML` `Python`           | ✅ Live         |
-| **📊 SentimentBoard** | Real-time sentiment aggregator across Reddit & Twitter streams — live trend graphs, topic clustering & alert thresholds     | `NLP` `Streaming` `React`     | 🔄 In Progress |
+| Project          | Description                                                                                                                                                                  | Tech                                         | Status |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------ |
+| **🛰️ E-Xpose**  | Privacy intelligence system that analyzes an email to uncover publicly exposed digital footprints using OSINT techniques, cross-platform identity linking, and risk scoring. | `Python` `OSINT` `Web Scraping` `Automation` | ✅ Live |
+| **🧠 Bloomence** | AI-powered wellness assistant delivering personalized mental health insights through interactive assessments and real-time full-stack architecture.                          | `Node.js` `JavaScript` `Firebase` `AI`       | ✅ Live |
+| **📄 Prepify**   | Resume analysis platform that evaluates resumes against job descriptions using NLP, highlighting skill gaps and suggesting targeted improvements.                            | `JavaScript` `NLP` `Web App`                 | ✅ Live |
 
 ---
 
@@ -109,7 +108,7 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 [![GitHub](https://img.shields.io/badge/GitHub-HarshaNaidu11-0a0a0a?style=for-the-badge\&logo=github\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://github.com/HarshaNaidu11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge\&logo=linkedin\&logoColor=f5f0e8\&labelColor=1a1a1a)](https://www.linkedin.com/in/n-harsha-vardhan-raj-7266432a4/)
-[![Email](https://img.shields.io/badge/Email-HarshaNaidu%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:harshavardhannaidu1111@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshanallary%40gmail.com-0a0a0a?style=for-the-badge\&logo=gmail\&logoColor=f5f0e8\&labelColor=1a1a1a)](mailto:harshavardhannaidu1111@gmail.com)
 
 </div>
 
