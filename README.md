@@ -111,7 +111,6 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:0a0a0a&height=100&section=footer"/>
