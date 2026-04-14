@@ -91,13 +91,13 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" height="170"/>
+<img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=tokyonight&hide_border=true&background=1a1b27" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
 </div>
 
