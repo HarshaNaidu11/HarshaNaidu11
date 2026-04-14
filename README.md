@@ -41,22 +41,25 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" />
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" height="40"/>  
+<b>C/C++ • Python • Java • JavaScript • SQL</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" height="40"/>  
+<b>React • Node.js • Express • Flask • FastAPI</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite" height="40"/>  
+<b>MongoDB • MySQL • PostgreSQL • Firebase • SQLite • OracleDB</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker" height="40"/>  
+<b>AWS (EC2, S3) • Git • GitHub • Linux • Docker</b>
 
 </div>
-
-<p align="center">
-<b>C/C++ • Python • Java • JavaScript • SQL</b><br>
-<b>FastAPI • Flask • Node.js • Express • React</b><br>
-<b>MongoDB • MySQL • OracleDB • SQLite • Firebase • PostgreSQL</b><br>
-<b>AWS (EC2, S3) • Git • GitHub • Linux</b>
-</p>
 
 ---
 
@@ -80,19 +83,6 @@ I enjoy working at the intersection of **machine learning, system design, and re
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a&border_radius=8&show=reviews,prs_merged,discussions_started" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a&border_radius=8&langs_count=6" height="180"/>
-</div>
-
----
-
-## 🎯 Engineering Focus
-
-<div align="center">
-
-![](https://img.shields.io/badge/AI--powered%20Applications-0a0a0a?style=flat-square\&labelColor=1a1a1a)
-![](https://img.shields.io/badge/Backend%20%26%20System%20Design-0a0a0a?style=flat-square\&labelColor=1a1a1a)
-![](https://img.shields.io/badge/ML--driven%20Platforms-0a0a0a?style=flat-square\&labelColor=1a1a1a)
-![](https://img.shields.io/badge/Real--world%20Products-0a0a0a?style=flat-square\&labelColor=1a1a1a)
-
 </div>
 
 ---
