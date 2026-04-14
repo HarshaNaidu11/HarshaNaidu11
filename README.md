@@ -100,7 +100,6 @@ I enjoy working at the intersection of **machine learning, system design, and re
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a" height="180"/>
 </div>
 
-
 ---
 
 ## 🌐 Connect
