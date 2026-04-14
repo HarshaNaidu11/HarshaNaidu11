@@ -1,25 +1,28 @@
-# 👋 Hi, I'm Harsha Nallary
-
-### 🚀 Full Stack Developer | AI & Systems Enthusiast
+<!-- 🔥 HERO -->
 
 <p align="center">
-  <a href="https://github.com/HarshaNaidu11">
-    <img src="https://komarev.com/ghpvc/?username=HarshaNaidu11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=220&section=header&text=Harsha%20Nallary&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Harsha Nallary</h1>
+<h3 align="center">🚀 AI-Driven Full Stack Developer | Systems Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%2B+Full+Stack+Engineer;Backend+Systems+Builder;Explainable+AI+Explorer;Building+Real-World+Products" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-* 🔭 Building **AI-powered applications** with real-world impact
-* 🧠 Interested in **Explainable AI, Computer Vision, and Backend Systems**
-* ⚙️ Strong focus on **scalable full-stack architectures**
-* 📈 Passionate about turning ideas into **production-ready systems**
+* 🎯 I build **AI-powered, real-world applications**
+* ⚙️ Strong in **backend systems & full stack development**
+* 🧠 Exploring **Explainable AI, Computer Vision, and intelligent systems**
+* 🚀 Focused on **scalable architectures and production-ready solutions**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### 💻 Languages
 
@@ -37,84 +40,89 @@
 
 `PostgreSQL` `MongoDB`
 
-### 🧰 Developer Tools
+### 🧰 Tools
 
-`Git` `GitHub` `Firebase` `Docker` (learning)
+`Git` `GitHub` `Firebase` `Docker (Learning)`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
 
-### 🔹 Email Exposure Scanner (E-Xpose)
+### 🔹 E-Xpose — Email Exposure Intelligence System
 
-🔍 Privacy intelligence tool that analyzes how much personal data is exposed online using just an email
+> Privacy intelligence tool that maps digital exposure from an email
 
 * OSINT-based architecture
-* Web scraping + endpoint probing
+* Cross-platform identity correlation
 * Risk scoring system
 
 ---
 
-### 🔹 Bloomence AI
+### 🔹 Bloomence — AI Wellness Assistant
 
-🧠 Personalized digital wellness assistant
+> Personalized mental wellness platform
 
-* AI-based mental health insights
-* Real-time interaction system
-* Full-stack deployment
-
----
-
-### 🔹 Supply Chain Management System
-
-📦 DBMS-based system for managing logistics and operations
-
-* Structured database design
-* CRUD operations with frontend integration
+* AI-driven insights
+* Full-stack real-time system
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 SmartSpend *(In Progress)*
+
+> AI-powered finance intelligence system
+
+* NLP-based categorization
+* Predictive analytics
+
+---
+
+## 📊 GitHub Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaNaidu11&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/HarshaNaidu11">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
 ---
 
-## ⚡ What I’m Currently Working On
+## ⚡ Currently Working On
 
-* 🧠 Explainable AI for decision systems
-* 💰 AI-powered finance & analytics tools
-* 🔍 Privacy-focused intelligence systems
+* 🧠 Explainable AI systems
+* 🔍 Privacy intelligence tools
+* 💻 AI-integrated full stack apps
+
+---
+
+## 🎯 What Defines Me
+
+```diff
++ I build systems, not just projects
++ Strong blend of AI + backend engineering
++ From idea → architecture → working product
+```
 
 ---
 
-## 🎯 Goals
-
-* Build impactful AI-driven products
-* Contribute to open-source
-* Publish research in AI/XAI domain
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:243B55&height=120&section=footer"/>
+</p>
