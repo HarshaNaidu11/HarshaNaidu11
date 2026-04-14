@@ -32,7 +32,7 @@ I enjoy working at the intersection of **machine learning, system design, and re
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------ |
 | **🛰️ E-Xpose**  | Privacy intelligence system that analyzes an email to uncover publicly exposed digital footprints using OSINT techniques, cross-platform identity linking, and risk scoring. | `Python` `OSINT` `Web Scraping` `Automation` | ✅ Live |
 | **🧠 Bloomence** | AI-powered wellness assistant delivering personalized mental health insights through interactive assessments and real-time full-stack architecture.                          | `Node.js` `JavaScript` `Firebase` `AI`       | ✅ Live |
-| **📄 Prepify**   | Resume analysis platform that evaluates resumes against job descriptions using NLP, highlighting skill gaps and suggesting targeted improvements.                            | `JavaScript` `NLP` `Web App`                 | ✅ Live |
+| **📄 Prepify**   | Full-stack placement preparation tracker that helps users manage study progress, track goals, and organize resources for structured interview preparation.                   | `JavaScript` `Full Stack` `Web App`          | ✅ Live |
 
 ---
 
