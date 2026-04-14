@@ -86,7 +86,6 @@ I enjoy working at the intersection of **machine learning, system design, and re
 `REST APIs` • `System Design` • `OSINT` • `Web Scraping` • `Authentication` • `Distributed Systems`
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,12 +94,11 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect
