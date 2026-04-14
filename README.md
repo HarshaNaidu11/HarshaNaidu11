@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Harsha%20Naidu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergraduate%20%7C%20IIITDM%20Kurnool&descSize=15&descAlignY=58&descColor=94a3b8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a1a,100:2a2a2a&height=200&section=header&text=Harsha%20Naidu&fontSize=42&fontColor=f5f0e8&animation=fadeIn&fontAlignY=38&desc=CS%20Undergraduate%20%7C%20IIITDM%20Kurnool&descSize=15&descAlignY=58&descColor=c9b99a"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=818CF8&center=true&vCenter=true&width=500&lines=Building+AI-powered+systems;Backend+%2B+ML+%2B+Full+Stack;OSINT+%7C+NLP+%7C+Real-time+Platforms;Shipping+real+products+that+matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=D4C5A9&center=true&vCenter=true&width=500&lines=Building+AI-powered+systems;Backend+%2B+ML+%2B+Full+Stack;OSINT+%7C+NLP+%7C+Real-time+Platforms;Shipping+real+products+that+matter" />
 </div>
 
 <div align="center">
 
-![AI Systems](https://img.shields.io/badge/AI%20Systems-312e81?style=flat-square&logoColor=a5b4fc&labelColor=1e1b4b)
-![Backend Dev](https://img.shields.io/badge/Backend%20Dev-064e3b?style=flat-square&logoColor=6ee7b7&labelColor=022c22)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-831843?style=flat-square&logoColor=f9a8d4&labelColor=4a044e)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-7c2d12?style=flat-square&logoColor=fdba74&labelColor=431407)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-f5f0e8?style=flat-square&color=1a1a1a&labelColor=0a0a0a&logoColor=f5f0e8)
+![Backend Dev](https://img.shields.io/badge/Backend%20Dev-f5f0e8?style=flat-square&color=1a1a1a&labelColor=0a0a0a)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-f5f0e8?style=flat-square&color=1a1a1a&labelColor=0a0a0a)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-f5f0e8?style=flat-square&color=1a1a1a&labelColor=0a0a0a)
 
 </div>
 
@@ -21,16 +21,16 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=93c5fd)
-![JavaScript](https://img.shields.io/badge/JavaScript-422006?style=for-the-badge&logo=javascript&logoColor=fde68a)
-![React](https://img.shields.io/badge/React-1c2d4a?style=for-the-badge&logo=react&logoColor=7dd3fc)
-![Node.js](https://img.shields.io/badge/Node.js-14532d?style=for-the-badge&logo=node.js&logoColor=86efac)
-![Flask](https://img.shields.io/badge/Flask-1a202c?style=for-the-badge&logo=flask&logoColor=e2e8f0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b0764?style=for-the-badge&logo=postgresql&logoColor=e9d5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-3b0764?style=for-the-badge&logo=mongodb&logoColor=e9d5ff)
-![Docker](https://img.shields.io/badge/Docker-1a202c?style=for-the-badge&logo=docker&logoColor=e2e8f0)
-![Firebase](https://img.shields.io/badge/Firebase-422006?style=for-the-badge&logo=firebase&logoColor=fde68a)
-![C](https://img.shields.io/badge/C-1e3a5f?style=for-the-badge&logo=c&logoColor=93c5fd)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=f5f0e8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=f5f0e8)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=f5f0e8)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=f5f0e8)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=f5f0e8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=f5f0e8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=f5f0e8)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=f5f0e8)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=f5f0e8)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=f5f0e8)
 
 </div>
 
@@ -50,8 +50,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=34d399&text_color=94a3b8&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=94a3b8&langs_count=6" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=dark&hide_border=false&border=f5f0e8&background=0a0a0a&stroke=f5f0e8&ring=d4c5a9&fire=f5f0e8&currStreakLabel=d4c5a9&sideLabels=d4c5a9&dates=8a7a6a&currStreakNum=f5f0e8&sideNums=f5f0e8&border_radius=8" width="700"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&icon_color=d4c5a9&text_color=c9b99a&border_radius=8&show=reviews,prs_merged,discussions_started" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=dark&hide_border=false&border_color=f5f0e8&bg_color=0a0a0a&title_color=f5f0e8&text_color=c9b99a&border_radius=8&langs_count=6" height="180"/>
 </div>
 
 ---
@@ -60,10 +64,10 @@
 
 <div align="center">
 
-| | |
-|---|---|
-| ![](https://img.shields.io/badge/AI--powered%20Applications-818cf8?style=flat-square&labelColor=1e1b4b) | ![](https://img.shields.io/badge/Backend%20%26%20System%20Design-34d399?style=flat-square&labelColor=022c22) |
-| ![](https://img.shields.io/badge/ML--driven%20Platforms-f472b6?style=flat-square&labelColor=4a044e) | ![](https://img.shields.io/badge/Real--world%20Products-fb923c?style=flat-square&labelColor=431407) |
+![](https://img.shields.io/badge/AI--powered%20Applications-0a0a0a?style=flat-square&logoColor=f5f0e8&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Backend%20%26%20System%20Design-0a0a0a?style=flat-square&logoColor=f5f0e8&labelColor=1a1a1a)
+![](https://img.shields.io/badge/ML--driven%20Platforms-0a0a0a?style=flat-square&logoColor=f5f0e8&labelColor=1a1a1a)
+![](https://img.shields.io/badge/Real--world%20Products-0a0a0a?style=flat-square&logoColor=f5f0e8&labelColor=1a1a1a)
 
 </div>
 
@@ -73,12 +77,12 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-HarshaNaidu11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshaNaidu11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HarshaNaidu11-0a0a0a?style=for-the-badge&logo=github&logoColor=f5f0e8&labelColor=1a1a1a)](https://github.com/HarshaNaidu11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f5f0e8&labelColor=1a1a1a)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-yourmail%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=f5f0e8&labelColor=1a1a1a)](mailto:yourmail@gmail.com)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a2a2a,100:0a0a0a&height=100&section=footer"/>
 </div>
