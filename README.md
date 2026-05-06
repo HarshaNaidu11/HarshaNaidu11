@@ -89,11 +89,11 @@ I enjoy working at the intersection of **machine learning, system design, and re
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=tokyonight&hide_border=true&background=1a1b27" height="170"/>
 
-<br/>
+<br/> -->
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="170"/>
 
