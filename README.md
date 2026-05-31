@@ -159,7 +159,9 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarshaNaidu11&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/HarshaNaidu11)
+![GitHub Stats](https://img.shields.io/badge/Total%20Contributions-Consistent%20%26%20Growing-161b22?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Full%20Stack-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117&color=3fb950)
 
 </div>
 
