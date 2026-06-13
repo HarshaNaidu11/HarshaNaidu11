@@ -224,7 +224,7 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
     <br/><sub><b>Building Momentum</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-week_one.png" width="100" alt="Week 1 Streak"/>
+    <img src="C:\Users\nhars\Downloads\gssoc-badge-week_one.png" width="100" alt="Week 1 Streak"/>
     <br/><sub><b>Week 1 Streak</b></sub>
   </td>
   <td align="center" width="160">
