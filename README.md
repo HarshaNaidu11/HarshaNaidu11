@@ -184,43 +184,44 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 <table>
 <tr>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-elite.png" width="100" alt="Elite"/>
+    <img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/5f4a7676-d3b2-432e-a04a-41a5fbccc73b" />
     <br/><sub><b>Elite</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-power_contributor__2_.png" width="100" alt="Power Contributor"/>
+   <img width="1080" height="1080" alt="gssoc-badge-power_contributor (2)" src="https://github.com/user-attachments/assets/ec8dc3c6-e979-449a-a777-f40db4822e61" />
     <br/><sub><b>Power Contributor</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-bounty_hunter.png" width="100" alt="Bounty Hunter"/>
+    <img width="1080" height="1080" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/4a3dc83a-02f6-4a00-8d50-994c6d4ae5cc" />
     <br/><sub><b>Bounty Hunter</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-rising_star__2_.png" width="100" alt="Rising Star"/>
+    <img width="1080" height="1080" alt="gssoc-badge-rising_star (2)" src="https://github.com/user-attachments/assets/21f059cf-8b8d-458f-b877-0bf278830a71" />
     <br/><sub><b>Rising Star</b></sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-on_a_roll.png" width="100" alt="Rare Merged"/>
+   <img width="1080" height="1080" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/4d68094d-5012-456f-aa24-47b333bee101" />
     <br/><sub><b>Rare Merged</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-consistent.png" width="100" alt="Week 4 Streak"/>
+    <img width="1080" height="1080" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/cfb46003-e330-46d1-bef8-24553dfed6ae" />
+
     <br/><sub><b>Week 4 Streak</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-point_scorer.png" width="100" alt="Point Scorer"/>
+    <img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/0d4212e5-7c2f-4098-87c3-593a24afed43" />
     <br/><sub><b>Point Scorer</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-role_contributor.png" width="100" alt="Contributor"/>
+   <img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/c38e60b3-68bf-4a93-85a4-7504294d586d" />
     <br/><sub><b>Contributor</b></sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-building_momentum__1_.png" width="100" alt="Building Momentum"/>
+   <img width="1080" height="1080" alt="gssoc-badge-building_momentum (1)" src="https://github.com/user-attachments/assets/e7de649d-0f84-4df7-89ac-6b1c1c0476f5" />
     <br/><sub><b>Building Momentum</b></sub>
   </td>
   <td align="center" width="160">
@@ -228,11 +229,11 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
     <br/><sub><b>Week 1 Streak</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-getting_started.png" width="100" alt="5 PR Merge"/>
+   <img width="1080" height="1080" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/98522141-e00c-4711-8773-e759e408561b" />
     <br/><sub><b>5 PR Merge</b></sub>
   </td>
   <td align="center" width="160">
-    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-first_steps.png" width="100" alt="First Step"/>
+    <img width="1080" height="1080" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/6bb16685-45f9-46a3-9f50-566ef323da2a" />
     <br/><sub><b>First Step</b></sub>
   </td>
 </tr>
