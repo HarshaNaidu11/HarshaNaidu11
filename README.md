@@ -207,7 +207,6 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
   </td>
   <td align="center" width="160">
     <img width="1080" height="1080" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/cfb46003-e330-46d1-bef8-24553dfed6ae" />
-
     <br/><sub><b>Week 4 Streak</b></sub>
   </td>
   <td align="center" width="160">
