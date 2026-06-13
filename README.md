@@ -167,6 +167,81 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 ---
 
+## 🏅 GSSoC 2026 Badges
+
+<div align="center">
+
+  <p>
+    <strong>GirlScript Summer of Code 2026</strong> &nbsp;•&nbsp;
+    <code>30+ Pull Requests Merged</code> &nbsp;•&nbsp;
+    <code>Elite Contributor</code>
+  </p>
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-elite.png" width="100" alt="Elite"/>
+    <br/><sub><b>Elite</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-power_contributor__2_.png" width="100" alt="Power Contributor"/>
+    <br/><sub><b>Power Contributor</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-bounty_hunter.png" width="100" alt="Bounty Hunter"/>
+    <br/><sub><b>Bounty Hunter</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-rising_star__2_.png" width="100" alt="Rising Star"/>
+    <br/><sub><b>Rising Star</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-on_a_roll.png" width="100" alt="Rare Merged"/>
+    <br/><sub><b>Rare Merged</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-consistent.png" width="100" alt="Week 4 Streak"/>
+    <br/><sub><b>Week 4 Streak</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-point_scorer.png" width="100" alt="Point Scorer"/>
+    <br/><sub><b>Point Scorer</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-role_contributor.png" width="100" alt="Contributor"/>
+    <br/><sub><b>Contributor</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-building_momentum__1_.png" width="100" alt="Building Momentum"/>
+    <br/><sub><b>Building Momentum</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-week_one.png" width="100" alt="Week 1 Streak"/>
+    <br/><sub><b>Week 1 Streak</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-getting_started.png" width="100" alt="5 PR Merge"/>
+    <br/><sub><b>5 PR Merge</b></sub>
+  </td>
+  <td align="center" width="160">
+    <img src="https://raw.githubusercontent.com/HarshaNaidu11/HarshaNaidu11/main/badges/gssoc-badge-first_steps.png" width="100" alt="First Step"/>
+    <br/><sub><b>First Step</b></sub>
+  </td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🌐 Connect
 
 <div align="center">
