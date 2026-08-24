@@ -51,7 +51,7 @@ Currently building a structured literature base spanning foundational interpreta
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛰️ E-Xpose
 **Privacy Intelligence System**
@@ -65,7 +65,7 @@ Analyzes an email to uncover publicly exposed digital footprints using OSINT tec
 `● Live`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 Bloomence
 **AI Wellness Assistant**
@@ -79,7 +79,39 @@ Delivers personalized mental health insights through interactive assessments and
 `● Live`
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Nyaya Setu
+**Legal Aid LLM**
+
+Fine-tuned legal assistant LLM (QLoRA) built to make legal aid more accessible, evaluated with a BERTScore F1 of 0.860.
+
+![Python](https://img.shields.io/badge/-Python-161b22?style=flat-square&logo=python&logoColor=f1e05a)
+![QLoRA](https://img.shields.io/badge/-QLoRA-161b22?style=flat-square&logoColor=bc8cff)
+![NLP](https://img.shields.io/badge/-NLP-161b22?style=flat-square&logoColor=58a6ff)
+
+`● Fine-tuned LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Supply Chain Management
+**Full-Stack Tracking System**
+
+<!-- TODO: replace with a 1-line description of what this project does and its stack -->
+Full-stack system for managing and tracking supply chain operations end-to-end.
+
+![Full Stack](https://img.shields.io/badge/-Full%20Stack-161b22?style=flat-square&logoColor=58a6ff)
+![Database](https://img.shields.io/badge/-Database-161b22?style=flat-square&logoColor=8b949e)
+
+`● Project`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 Prepify
 **Placement Prep Tracker**
@@ -91,6 +123,9 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 ![Web App](https://img.shields.io/badge/-Web%20App-161b22?style=flat-square&logoColor=8b949e)
 
 `● Live`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -157,9 +192,9 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=8&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=8&rank_icon=github" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&border_radius=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&border_radius=8" height="170"/>
 
 </div>
 
@@ -174,6 +209,12 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaNaidu11&theme=github-compact&bg_color=161b22&color=8b949e&line=58a6ff&point=3fb950&area=true&hide_border=true&border_radius=8" width="680"/>
 
 </div>
+
+<!-- These stat widgets are shared public services that pull from the GitHub API. If any of them
+     show a "maximum retries exceeded" or "failed to retrieve contributions" error, GitHub has
+     temporarily rate-limited that instance — it isn't specific to this repo. It usually clears
+     within a few hours. For a permanent fix, fork the widget's repo, deploy your own instance on
+     Vercel, and add a GITHUB_TOKEN / PAT_1 environment variable with a personal access token. -->
 
 <div align="center">
 
