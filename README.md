@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI-powered+systems+that+matter;Backend+%2B+ML+%2B+Full+Stack+Engineer;OSINT+%7C+NLP+%7C+Real-time+Platforms;Open+to+opportunities+%E2%80%94+let%27s+build+something" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Building+AI-powered+systems+that+matter;Backend+%2B+ML+%2B+Full+Stack+Engineer;Explainable+AI+%7C+NLP+%7C+OSINT;Open+to+opportunities+%E2%80%94+let%27s+build+something" />
 </div>
 
 <br/>
@@ -24,15 +24,26 @@
 
 > *"Building at the intersection of AI, backend engineering, and real-world problem solving."*
 
-I'm a **Computer Science undergraduate** at IIITDM Kurnool, focused on shipping **AI-powered systems** and backend-heavy full-stack applications. I thrive at the crossroads of **machine learning, system design, and impactful engineering** — always optimizing for scalability, usability, and real-world value.
+I'm a **final-year Computer Science undergraduate** at IIITDM Kurnool, working on **AI-powered systems** and backend-heavy full-stack applications, with a research focus in **Explainable AI (XAI)**. I thrive at the crossroads of **machine learning, system design, and impactful engineering** — always optimizing for scalability, usability, and real-world value.
 
 ```yaml
 name:       Harsha Naidu
-college:    IIITDM Kurnool (CS Undergrad)
+college:    IIITDM Kurnool (Final-Year CS Undergrad)
+research:   Explainable AI (concept-based & mechanistic interpretability)
 focus:      AI Systems · Backend Engineering · Full Stack
 interests:  NLP · OSINT · Distributed Systems · Real-time Apps
 status:     Open to internships & collaborations
 ```
+
+---
+
+## 🔬 Research Focus — Explainable AI
+
+Currently building a structured literature base spanning foundational interpretability methods, concept-based approaches (CARs, PCBMs), counterfactual methods, and attention-based interpretability, with a growing interest in **mechanistic interpretability** (sparse autoencoders, circuit tracing). Working toward a research paper targeting an A* venue (NeurIPS / ICML / ICLR).
+
+![XAI](https://img.shields.io/badge/-Explainable%20AI-161b22?style=flat-square&logoColor=bc8cff)
+![Interpretability](https://img.shields.io/badge/-Mechanistic%20Interpretability-161b22?style=flat-square&logoColor=58a6ff)
+![Research](https://img.shields.io/badge/-A*%20Venue%20Target-161b22?style=flat-square&logoColor=3fb950)
 
 ---
 
@@ -106,6 +117,13 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 ![Flask](https://img.shields.io/badge/Flask-161b22?style=for-the-badge&logo=flask&logoColor=f0f6fc)
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688)
 
+### 🤖 AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![FAISS](https://img.shields.io/badge/FAISS-161b22?style=for-the-badge&logoColor=58a6ff)
+![QLoRA](https://img.shields.io/badge/QLoRA-161b22?style=for-the-badge&logoColor=bc8cff)
+
 ### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=3fb950)
@@ -131,11 +149,11 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 `REST APIs` &nbsp;•&nbsp; `System Design` &nbsp;•&nbsp; `OSINT` &nbsp;•&nbsp; `Web Scraping` &nbsp;•&nbsp; `Authentication`
 
-`NLP` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Distributed Systems` &nbsp;•&nbsp; `Microservices`
+`NLP` &nbsp;•&nbsp; `Machine Learning` &nbsp;•&nbsp; `Explainable AI` &nbsp;•&nbsp; `Distributed Systems` &nbsp;•&nbsp; `Microservices`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Competitive Programming Stats
 
 <div align="center">
 
@@ -159,7 +177,8 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/Total%20Contributions-Consistent%20%26%20Growing-161b22?style=flat-square&logo=github&logoColor=3fb950&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-350%2B%20Problems%20Solved-161b22?style=flat-square&logoColor=FFA116&labelColor=0d1117)
+![Rank](https://img.shields.io/badge/Global%20Rank-Top%2016%25-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117)
 ![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Full%20Stack-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117&color=3fb950)
 
@@ -184,55 +203,55 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 <table>
 <tr>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/5f4a7676-d3b2-432e-a04a-41a5fbccc73b" />
+    <img width="120" height="120" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/5f4a7676-d3b2-432e-a04a-41a5fbccc73b" />
     <br/><sub><b>Elite</b></sub>
   </td>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-power_contributor (2)" src="https://github.com/user-attachments/assets/ec8dc3c6-e979-449a-a777-f40db4822e61" />
+   <img width="120" height="120" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/ec8dc3c6-e979-449a-a777-f40db4822e61" />
     <br/><sub><b>Power Contributor</b></sub>
   </td>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/4a3dc83a-02f6-4a00-8d50-994c6d4ae5cc" />
+    <img width="120" height="120" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/4a3dc83a-02f6-4a00-8d50-994c6d4ae5cc" />
     <br/><sub><b>Bounty Hunter</b></sub>
   </td>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-rising_star (2)" src="https://github.com/user-attachments/assets/21f059cf-8b8d-458f-b877-0bf278830a71" />
+    <img width="120" height="120" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/21f059cf-8b8d-458f-b877-0bf278830a71" />
     <br/><sub><b>Rising Star</b></sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/4d68094d-5012-456f-aa24-47b333bee101" />
+   <img width="120" height="120" alt="gssoc-badge-on_a_roll" src="https://github.com/user-attachments/assets/4d68094d-5012-456f-aa24-47b333bee101" />
     <br/><sub><b>Rare Merged</b></sub>
   </td>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/cfb46003-e330-46d1-bef8-24553dfed6ae" />
+    <img width="120" height="120" alt="gssoc-badge-consistent" src="https://github.com/user-attachments/assets/cfb46003-e330-46d1-bef8-24553dfed6ae" />
     <br/><sub><b>Week 4 Streak</b></sub>
   </td>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/0d4212e5-7c2f-4098-87c3-593a24afed43" />
+    <img width="120" height="120" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/0d4212e5-7c2f-4098-87c3-593a24afed43" />
     <br/><sub><b>Point Scorer</b></sub>
   </td>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/c38e60b3-68bf-4a93-85a4-7504294d586d" />
+   <img width="120" height="120" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/c38e60b3-68bf-4a93-85a4-7504294d586d" />
     <br/><sub><b>Contributor</b></sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-building_momentum (1)" src="https://github.com/user-attachments/assets/e7de649d-0f84-4df7-89ac-6b1c1c0476f5" />
+   <img width="120" height="120" alt="gssoc-badge-building_momentum" src="https://github.com/user-attachments/assets/e7de649d-0f84-4df7-89ac-6b1c1c0476f5" />
     <br/><sub><b>Building Momentum</b></sub>
   </td>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/523d4e3c-32f8-4b6d-aaf1-3c9917720001" />
+   <img width="120" height="120" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/523d4e3c-32f8-4b6d-aaf1-3c9917720001" />
     <br/><sub><b>Week 1 Streak</b></sub>
   </td>
   <td align="center" width="160">
-   <img width="1080" height="1080" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/98522141-e00c-4711-8773-e759e408561b" />
+   <img width="120" height="120" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/98522141-e00c-4711-8773-e759e408561b" />
     <br/><sub><b>5 PR Merge</b></sub>
   </td>
   <td align="center" width="160">
-    <img width="1080" height="1080" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/6bb16685-45f9-46a3-9f50-566ef323da2a" />
+    <img width="120" height="120" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/6bb16685-45f9-46a3-9f50-566ef323da2a" />
     <br/><sub><b>First Step</b></sub>
   </td>
 </tr>
@@ -261,4 +280,3 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 <div align="center">
   <sub>Built with focus. Shipped with purpose. — Harsha Naidu</sub>
 </div>
-
