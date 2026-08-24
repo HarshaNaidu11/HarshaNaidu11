@@ -192,29 +192,10 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshaNaidu11&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&border_radius=8&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaNaidu11&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&border_radius=8" height="170"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/HarshaNaidu11&label=Public%20Repos&query=%24.public_repos&color=161b22&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=f0f6fc)
+![Followers](https://img.shields.io/github/followers/HarshaNaidu11?label=Followers&style=for-the-badge&color=161b22&labelColor=0d1117&logo=github&logoColor=f0f6fc)
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HarshaNaidu11&theme=github-dark-blue&hide_border=true&background=161b22&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&border_radius=8" width="680"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaNaidu11&theme=github-compact&bg_color=161b22&color=8b949e&line=58a6ff&point=3fb950&area=true&hide_border=true&border_radius=8" width="680"/>
-
-</div>
-
-<!-- These stat widgets are shared public services that pull from the GitHub API. If any of them
-     show a "maximum retries exceeded" or "failed to retrieve contributions" error, GitHub has
-     temporarily rate-limited that instance — it isn't specific to this repo. It usually clears
-     within a few hours. For a permanent fix, fork the widget's repo, deploy your own instance on
-     Vercel, and add a GITHUB_TOKEN / PAT_1 environment variable with a personal access token. -->
 
 <div align="center">
 
@@ -224,6 +205,12 @@ Full-stack tracker to manage study progress, set goals, and organize resources f
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-161b22?style=flat-square&logoColor=58a6ff&labelColor=0d1117&color=3fb950)
 
 </div>
+
+<!-- Want the animated stats card / streak / activity graph back? Those widgets (github-readme-stats,
+     streak-stats, github-readme-activity-graph) run on shared free Vercel instances that constantly
+     hit GitHub's API rate limit and go down. The only permanent fix is to fork the widget's repo and
+     deploy your own instance with a personal GITHUB_TOKEN / PAT_1 env var — the badges above avoid
+     that dependency entirely and will always render. -->
 
 ---
 
